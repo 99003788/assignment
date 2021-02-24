@@ -1,4 +1,4 @@
-PROJECT_NAME = ASSIGNMENT
+PROJECT_NAME = ASSIGNMENT_99003788
 
 Src = test.c\
 src/factorial.c\
